@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'De Valencia';
+    src: url('DeValencia-Regular.woff') format('woff'),
+        url('DeValencia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
